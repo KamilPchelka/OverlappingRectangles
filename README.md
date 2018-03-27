@@ -13,5 +13,5 @@ Example usage:
         Rectangle rectangle = new Rectangle(leftBottom1, rightTop1);
         Rectangle rectangle2 = new Rectangle(leftBottom2, rightTop2);
 
-        System.out.println(rectangle.getOverlapArea(rectangle2));
+        System.out.println(rectangle.getOverlapArea(rectangle2)); // output: 36
 ```
